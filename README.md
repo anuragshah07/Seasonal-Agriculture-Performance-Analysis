@@ -215,9 +215,9 @@ Run the cells sequentially to reproduce the analysis and visualizations.
 
 B.Tech — Textile Technology
 
-College: **[Your College Name]**
+College: **Government College Of Engineering and Textile Technology, Berhampore**
 
-AICTE STU ID: **[Your STU ID]**
+AICTE STU ID: **STU69d9f95f010a01775892831**
 
 ## Submission
 
